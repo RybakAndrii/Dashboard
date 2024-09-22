@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #555;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar h1 {
+  margin: 0;
+}
+
+.user-info {
+  color: #eee;
+}
